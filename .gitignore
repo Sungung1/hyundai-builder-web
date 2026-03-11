@@ -1,0 +1,15 @@
+.next
+.open-next
+node_modules
+.wrangler
+.env*
+!.env.example
+.dev.vars
+coverage
+dist
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+cloudflare-env.d.ts
+firebase-debug.log
