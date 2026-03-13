@@ -25,8 +25,6 @@ npm install
 npm run dev
 ```
 
-## Demo
+## Results
 
-- Marketing landing page
-- Shareable meeting rooms
-- Availability grid and best-time recommendation engine
+The application provides a polished meeting-scheduling flow with shareable meeting pages, availability capture, and overlap analysis for recommended times.
